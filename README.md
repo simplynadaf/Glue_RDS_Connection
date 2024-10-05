@@ -32,7 +32,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sarvar04/
 
 ## Getting Started
 
-Follow these steps to start using CloudFormation Git Sync for managing your AWS CloudFormation YAML files. Detailed instructions can be found in the [documentation](docs/).
+Follow these steps to start Connecting Amazon Glue to Amazon RDS in a VPC. Detail article will be available on Dev.to
 
 1. Clone the repository:
 
