@@ -20,7 +20,7 @@ This project we will examine how to create a Virtual Private Cloud (VPC) to prov
 
 ## Tutorial Blog:
 
-Follow the detailed tutorial on [Dev.to](https://dev.to/aws-builders/streamlining-infrastructure-deployment-seamless-cloudformation-stack-deployment-with-git-sync-2hg5) for step-by-step instructions.
+Follow the detailed tutorial on [Dev.to](https://dev.to/aws-builders/secure-data-pipelines-connect-amazon-glue-to-amazon-rds-vpc-5da9) for step-by-step instructions.
 
 ## Follow for Updates:
 
@@ -37,5 +37,5 @@ Follow these steps to start using CloudFormation Git Sync for managing your AWS 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/simplynadaf/amazon_rds_terraform.git
+git clone https://github.com/simplynadaf/Glue_RDS_Connection.git
 cd amazon_rds_terraform
